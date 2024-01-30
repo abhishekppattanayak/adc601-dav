@@ -10,5 +10,5 @@ To understand the use of regression Techniques in data analytics applications.
 Implement various Regression techniques for prediction.
 
 ### LIBRARIES USED
-Python := scikit-learn
-R := *none*
+1. Python := scikit-learn
+2. R := *none*
